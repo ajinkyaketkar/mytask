@@ -1,0 +1,3 @@
+[submodule "mytask"]
+	path = mytask
+	url = https://github.com/ajinkyaketkar/mytask.git
